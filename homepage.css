@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 2.5;
+    background-color: #f0f0f0;
+    color: #1d1313;
+    text-align: center;
+}
+
+header {
+    background-color: #1197d5;
+    color: rgb(238, 231, 231);
+    padding: 2rem 0;
+    text-align: center;
+}
